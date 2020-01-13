@@ -3,6 +3,8 @@ import matplotlib.pyplot as plt
 import matplotlib.colors as colors
 from mpl_toolkits.axes_grid1 import make_axes_locatable
 
+# Utility file for plotting well logs 
+
 #Key:
 # 1=sandstone  2=c_siltstone   3=f_siltstone 
 # 4=marine_silt_shale 5=mudstone 6=wackestone 7=dolomite
